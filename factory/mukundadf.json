@@ -1,0 +1,9 @@
+{
+	"name": "mukundadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3a403d0-92d1-4833-8fe8-5203f986091a",
+		"tenantId": "2b2e15e4-5e17-4687-b69b-b26cf5d2e2be"
+	}
+}
